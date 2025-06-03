@@ -1,2 +1,2 @@
-##. React Redux action creator+normalizr
+## React Redux action creator+normalizr
 
